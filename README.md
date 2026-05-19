@@ -1,4 +1,4 @@
-ecyclerView List, Grid, dan Card View
+recyclerView List, Grid, dan Card View
 
 Project Android sederhana untuk menampilkan data katalog kuliner dalam tiga mode RecyclerView:
 
