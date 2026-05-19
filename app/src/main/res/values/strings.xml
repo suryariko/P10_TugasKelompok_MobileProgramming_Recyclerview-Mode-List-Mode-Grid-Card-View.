@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas11 RecyclerView</string>
+    <string name="home_title">Katalog Kuliner Nusantara</string>
+    <string name="home_subtitle">RecyclerView List, Grid, dan Card View</string>
+    <string name="mode_list">List</string>
+    <string name="mode_grid">Grid</string>
+    <string name="mode_card">Card</string>
+    <string name="caption_list">Mode List menampilkan menu dalam daftar vertikal.</string>
+    <string name="caption_grid">Mode Grid menampilkan menu dalam dua kolom.</string>
+    <string name="caption_card">Mode Card menampilkan menu memakai CardView.</string>
+    <string name="menu_icon">Ikon menu makanan</string>
+</resources>

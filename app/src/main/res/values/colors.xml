@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F6F2</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_alt">#ECEFE8</color>
+    <color name="ink">#17201B</color>
+    <color name="muted">#647067</color>
+    <color name="teal">#2F7D62</color>
+    <color name="gold">#F4B63F</color>
+    <color name="stroke">#DDE3DC</color>
+</resources>
