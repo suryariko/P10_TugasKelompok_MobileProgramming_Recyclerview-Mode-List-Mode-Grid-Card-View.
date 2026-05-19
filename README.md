@@ -13,18 +13,6 @@ Project Android sederhana untuk menampilkan data katalog kuliner dalam tiga mode
 3. Jalankan aplikasi pada emulator atau perangkat Android.
 4. Gunakan tombol `List`, `Grid`, dan `Card` di bagian atas aplikasi untuk mengganti mode tampilan.
 
-Build dari command line juga bisa dijalankan dengan:
-
-```bash
-./gradlew assembleDebug
-```
-
-Di Windows:
-
-```powershell
-.\gradlew.bat assembleDebug
-```
-
 ## Struktur Utama
 
 - `MainActivity.java`: mengatur data, mode tampilan, dan layout manager.
